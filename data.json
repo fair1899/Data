@@ -1,0 +1,49 @@
+[ 
+{
+	name: 'Dodecahedron',
+	price: 2.95,
+	description: 'Descripcion de la gema 1',
+	canPurchase: true,
+	soldOut: false,
+	images: [
+	{
+		full: 'gemaG.png',
+		thumb: 'gemaP.png'
+
+	},
+	{
+		full: 'gemaG2.png',
+		thumb: 'gemaP2.png'
+
+	}],
+	reviews: [
+	{
+		stars: 5,
+		body: "I love this product!",
+		author: "Juan@hotmail.com"
+	},
+	{
+		stars: 1,
+		body: "so bad!!!!",
+		author: "Max@hotmail.com"
+	}]
+},
+{
+	name: 'Pentagonal Gem',
+	price: 5.95,
+	description: 'Descripcion de la gema 2',
+	canPurchase: true,
+	soldOut: false,
+	images: [
+	{
+		full: 'gemaG2.png',
+		thumb: 'gemaP2.png'
+
+	},
+	{
+		full: 'gemaG2.png',
+		thumb: 'gemaP2.png'
+
+	}]
+
+}]
